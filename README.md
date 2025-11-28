@@ -8,7 +8,7 @@ The model is trained on the **KITTI Road Segmentation Dataset** and produces pix
 
 ![Lane Segmentation Example 1](outputs/5.png)
 ![Lane Segmentation Example 2](outputs/1.png)
-![Lane Segmentation Example 3](outputs/3.png)
+![Lane Segmentation Example 3](outputs/27.png)
 ---
 
 ## 📌 Project Overview
