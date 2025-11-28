@@ -3,6 +3,12 @@
 This project implements **lane/road segmentation** using a **Fully Convolutional Network (FCN-8)** built on top of a **VGG-16 encoder**.  
 The model is trained on the **KITTI Road Segmentation Dataset** and produces pixel-wise binary masks identifying drivable road areas.
 
+## 📷 Example Prediction 
+
+```markdown
+![Lane Segmentation Example 1](outputs/0.png)
+![Lane Segmentation Example 2](outputs/1.png)
+![Lane Segmentation Example 3](outputs/2.png)
 ---
 
 ## 📌 Project Overview
@@ -135,9 +141,6 @@ On each frame:
 - Weighted overlay  
 - Write to output video  
 
----
 
-## 📷 Example Prediction (Insert Your Image)
 
-```markdown
-![Lane Segmentation Example](image.png)
+
